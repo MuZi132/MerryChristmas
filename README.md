@@ -1,16 +1,13 @@
-### Hi there 👋
+## 圣诞快乐
 
-<!--
-**MuZi132/MuZi132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[效果预览](https://jwautumn.github.io/MerryChristmas/index)
 
-Here are some ideas to get you started:
+从[掘金](https://juejin.cn/post/7042544790562406408#comment)上看到的，挂载到 `GitHub Pages` 上，分享给喜欢的人看。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+如果你喜欢的话，可以下载或者 `fork` 到自己的仓库，修改下对应的文字。挂载到自己的 `GitHub Pages` 下。
+
+<img src="./preview.gif" alt="preview" style="zoom:50%;" />
+
+
+
+> PS：我只是个搬运工。
